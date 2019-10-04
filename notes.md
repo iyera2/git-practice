@@ -22,4 +22,3 @@ Three step commit process
     git add filename.rb
 * Commit the staged files
     git commit -m "Descriptive commit message to myself and other"
-
